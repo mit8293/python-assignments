@@ -1,0 +1,2 @@
+((number % 1 == 0 and number <= 10 and number => 1) and (number % 2 == 0 and number >= 2 and number <= 20) and (number % 3 == 0 and number >= 3 and number <= 30) and (number % 4 == 0 and number >40) and (number % 5 == 0 and number >50) and (number % 6 == 0 and number >60) and (number % 7 == 0 and number >70) and (number % 8 == 0 and number >80) and (number % 9 == 0 and number >90) and (number % 10 == 0 and number >100)):
+    print("Invalid input")
