@@ -25,5 +25,5 @@ for i in range(1,n):
     if i == 1:
         print("#"*(n-i),"*"*(i))
     if i >= 2:
-        print("#"*(n-i),"*"+"#"*(i*2-3),end="*")
+        print("#"*(n-i),"*","#"*(i*2-4),end="*")
         print()
