@@ -16,3 +16,4 @@ for j in range(len(a)):
     if a[j].isalpha():
         count1+=1
 print(count1)
+
